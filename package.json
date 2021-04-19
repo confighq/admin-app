@@ -1,0 +1,9 @@
+{
+  "name": "admin-app",
+  "version": "1.0.0",
+  "description": "Admin page for configHQ",
+  "main": "index.js",
+  "repository": "https://github.com/confighq/admin-app.git",
+  "author": "@carstenjacobsen",
+  "license": "Apache-2.0"
+}
